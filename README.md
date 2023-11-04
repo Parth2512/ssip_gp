@@ -1,2 +1,0 @@
-# ssip_gp
-ssip
